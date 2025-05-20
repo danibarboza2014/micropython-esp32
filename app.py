@@ -4,8 +4,9 @@ def run():
     from machine import Pin
     import time
 
-    led = Pin(2, Pin.OUT)  # Ajusta el GPIO si usas otro pin
+    led = Pin(2, Pin.OUT)
 
+    print("🚀 Aplicación v1.0.0 iniciada")
     while True:
-        print("✅ Actdsdsdsdasdasdasdasdasdasdasdasdn probando...")
+        print("✅ Ejecutando Nueva Version")
         time.sleep(1)
