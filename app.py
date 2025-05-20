@@ -6,5 +6,5 @@ print("🚀 Aplicación iniciada")
 
 def run():
     while True:
-        print("✅ Ejecutando Modificado Segundo...")
+        print("✅ Ejecutando Modificado Tercero..")
         time.sleep(1)
