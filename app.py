@@ -7,7 +7,5 @@ def run():
     led = Pin(2, Pin.OUT)  # Ajusta el GPIO si usas otro pin
 
     while True:
-       # led.on()
-       # time.sleep(1)
-       # led.off()
+        print("✅ Actualisción probando...")
         time.sleep(1)
