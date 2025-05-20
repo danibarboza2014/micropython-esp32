@@ -1,11 +1,8 @@
-from machine import Pin
-import time
-
-led = Pin(2, Pin.OUT)
-
-print("🚀 Aplicación iniciada")
-
 def run():
-    while True:
-        print("Ejecutando  Cambio 15...")  
-        time.sleep(1)
+    from machine import Pin
+    import time
+
+ 
+     
+    print("Ejecutando ciclo Numero 16...")
+    time.sleep(1)
