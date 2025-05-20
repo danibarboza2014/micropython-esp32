@@ -8,5 +8,5 @@ def run():
 
     print("🚀 Aplicación v1.0.0 iniciada")
     while True:
-        print("✅ Ejecutando Otra actualizacion...")
+        print("✅ Ejecutando Actualizacion Mejorada...")
         time.sleep(1)
